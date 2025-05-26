@@ -7,6 +7,6 @@
 ![UML CASTELLS.png](img/UML%20CASTELLS.png)
 
 - Arquitectura del proyecto
-- 
+- Tareas:
 
-
+https://trello.com/b/1XCWKdn0/project2-castells
