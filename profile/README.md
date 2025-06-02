@@ -27,7 +27,7 @@ Este proyecto implementa un sistema utilizando microservicios para gestionar el 
 2. **API Gateway** (`castells-gateway`): intercepta todas las peticiones externas y las redirige al microservicio adecuado (Load Balance). T
 3. **Microservicios de dominio**:
    - Cada uno gestiona una parte del sistema y su propia base de datos.
-   - - Se comunican entre ellos mediante peticiones REST.
+   - Se comunican entre ellos mediante peticiones REST.
   
 ## Tecnologias
 
