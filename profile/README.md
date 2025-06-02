@@ -93,7 +93,7 @@ https://trello.com/b/1XCWKdn0/project2-castells
 
 Para consultar la presentación de diapositivas:
 
-link
+[link](https://docs.google.com/presentation/d/1dsUmGlKvTQDcxcHuON3g_ExFlySsLGDmtV4SkOQFVLo/edit?slide=id.g35f9edec940_0_79#slide=id.g35f9edec940_0_79)
 
 ---
 
