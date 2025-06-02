@@ -50,23 +50,32 @@ Este proyecto implementa un sistema utilizando microservicios para gestionar el 
 
 
 1. **Clonar los repositorios**
+
     Cada microservicio, server y gateway tiene un repositorio por separado dentro de la organización:
    
     https://github.com/Project-2-ODS
 
-3. **Configurar la base de datos en cada microservicio (cap, diada y casteller)**
-4. **Iniciar el servidor Discovery Server**
-   Se ejecuta por el puerto 8761
-5. **Iniciar microservios y gateway**
-  Se debe seguir este orden (servidor-microservicios-gateway) para su correcta ejecución.
-6. Se podrá consultar el estado de los microservicios entrando a:
-   http://localhost:8761
-7. Dentro de MySQL Workbench, generar un Schema por cada microservicio, deben respetar el nombre de la aplication.properties de cada uno:
+2. **Configurar la base de datos en cada microservicio** (cap, diada y casteller)
+
+  Dentro de MySQL Workbench, generar un Schema por cada microservicio, deben respetar el nombre de la aplication.properties de cada uno:
+  
     - castells-cap
     - castells-diada
     - castells-casteller
   
-8. Se podrán hacer consultas CRUD, dentro de Postman.
+4. **Iniciar el servidor Discovery Server**
+
+   Se ejecuta por el puerto 8761
+   
+5. **Iniciar microservios y gateway**
+
+  Se debe seguir este orden (servidor-microservicios-gateway) para su correcta ejecución.
+
+6. Se podrá consultar el estado de los microservicios entrando a:
+   
+   http://localhost:8761
+  
+7. Se podrán hacer consultas CRUD, dentro de Postman.
    
 
 
