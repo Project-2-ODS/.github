@@ -29,7 +29,7 @@ Este proyecto implementa un sistema utilizando microservicios para gestionar el 
    - Cada uno gestiona una parte del sistema y su propia base de datos.
    - - Se comunican entre ellos mediante peticiones REST.
   
-### Tecnologias
+## Tecnologias
 
 - Java 
 - Spring
@@ -39,7 +39,7 @@ Este proyecto implementa un sistema utilizando microservicios para gestionar el 
 - Eureka Server
 - Eureka Client
 
-### Programas
+## Programas
 
 - IntelliJ
 - MySQL Workbench
